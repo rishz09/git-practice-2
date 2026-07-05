@@ -5,3 +5,8 @@ This repository is for learning Git.
 ## User Profile Feature
 
 Added profile section.
+
+### Future Work
+
+- Profile picture
+- User settings
