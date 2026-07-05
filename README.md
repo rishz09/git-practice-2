@@ -11,6 +11,6 @@ Added profile section.
 - Profile picture
 - User settings
 
-## Cherry Pick Demo (Main Branch)
+## Cherry Pick Demo (Resolved)
 
 This line was added on the experiment branch.
